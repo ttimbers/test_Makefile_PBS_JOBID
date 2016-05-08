@@ -1,2 +1,2 @@
 all:
-	echo $$PBS_JOBID > stdout.txt
+	echo $$PATH >> stdout.txt
